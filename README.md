@@ -54,7 +54,7 @@ The assignments in this course were designed to reinforce learning by applying t
 - **Datasets**: Various datasets were used for different assignments
 
 ## Repository Structure
-- `assignments/`: Individual folders for each assignment with relevant files and notebooks.
+- `1,2,3,6,7/`: Individual folders for each assignment with relevant files and notebooks.
 
 
 
