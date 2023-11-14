@@ -55,8 +55,7 @@ The assignments in this course were designed to reinforce learning by applying t
 
 ## Repository Structure
 - `assignments/`: Individual folders for each assignment with relevant files and notebooks.
-- `data/`: Datasets used across various assignments.
-- `src/`: Any additional Python scripts or modules developed for the assignments.
+
 
 
 ## Contributing
